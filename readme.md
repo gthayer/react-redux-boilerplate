@@ -7,7 +7,7 @@ A simple react boilerplate including:
 ### Install
 ```sh
 git clone git@github.com:gthayer/react-redux-boilerplate.git
-cd monster-manager
+cd react-redux-boilerplate
 npm install
 ```
 
