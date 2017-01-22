@@ -1,4 +1,4 @@
-A simple react boilerplate including:
+### A simple react boilerplate including:
 
 * Webpack
 * React Router
